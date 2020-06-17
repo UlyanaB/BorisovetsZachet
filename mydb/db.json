@@ -1,0 +1,13 @@
+{
+    "mate": [{
+        "id": 1,
+        "Model": "Intal",
+        "Mgc": "20"
+    }],
+    "process": [{
+        "id": 1,
+        "name": "some comment",
+        "MgcgM": 1
+    }]
+
+}
